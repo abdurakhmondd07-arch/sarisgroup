@@ -320,7 +320,7 @@ footer {
   .brands-grid, .services-grid, .adv-grid, .objects-grid { grid-template-columns: 1fr; }
   .form-row { grid-template-columns: 1fr; }
   .about-visual { display: none; }
-
+  .stat-num { font-size: 1.8rem; }   
   footer { flex-direction: column; align-items: center; text-align: center; padding: 1.5rem 1.2rem; }
   .footer-nav { justify-content: center; }
 }
