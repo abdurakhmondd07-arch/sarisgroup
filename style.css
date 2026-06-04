@@ -37,7 +37,7 @@ nav {
   flex-shrink: 0;
 }
 .nav-logo img {
-  height: 110px;        /* высота логотипа в навбаре */
+  height: 100px;        /* высота логотипа в навбаре */
   width: auto;
   object-fit: contain;
   display: block;
