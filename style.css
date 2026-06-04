@@ -41,6 +41,7 @@ nav {
   width: auto;
   object-fit: contain;
   display: block;
+  background: #fff;
 }
 
 .nav-links { display: flex; gap: 2rem; list-style: none; }
@@ -290,6 +291,7 @@ footer {
   width: auto;
   object-fit: contain;
   display: block;
+  background-color: #fff;
 }
 
 .footer-nav  { display: flex; gap: 1.5rem; flex-wrap: wrap; }
