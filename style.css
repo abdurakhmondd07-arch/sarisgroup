@@ -41,7 +41,6 @@ nav {
   width: auto;
   object-fit: contain;
   display: block;
-  background: #fff;
 }
 
 .nav-links { display: flex; gap: 2rem; list-style: none; }
@@ -291,7 +290,6 @@ footer {
   width: auto;
   object-fit: contain;
   display: block;
-  background-color: #fff;
 }
 
 .footer-nav  { display: flex; gap: 1.5rem; flex-wrap: wrap; }
@@ -318,7 +316,7 @@ footer {
   .about-grid, .contacts-inner { grid-template-columns: 1fr; gap: 3rem; }
   .catalog-grid { grid-template-columns: 1fr 1fr; }
   .brands-grid, .services-grid, .adv-grid, .objects-grid { grid-template-columns: 1fr; }
-  .form-row { grid-template-columns: 1fr; }
+  .form-row { grid-template-columns: 1fr; } 
   .about-visual { display: none; }
   .stat-num { font-size: 1.8rem; }   
   footer { flex-direction: column; align-items: center; text-align: center; padding: 1.5rem 1.2rem; }
